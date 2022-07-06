@@ -19,5 +19,8 @@
 ## GitHub Repo
 * https://github.com/asad-khilji/regex
 
+## GitHub Gist
+* https://gist.github.com/asad-khilji/1ced67f96028b3fab0e5817ce598cc9c
+
 ## Contribution
 * Made By Asad Khilji
