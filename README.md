@@ -17,7 +17,7 @@
 * THEN I find a section about the author and a link to the author’s GitHub profile
 
 ## GitHub Repo
-* 
+* https://github.com/asad-khilji/regex
 
 ## Contribution
 * Made By Asad Khilji
